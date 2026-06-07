@@ -7,16 +7,16 @@
 
 ```
   ┌──────────────────────────────────────────────────────────────────────────────┐
-  │                                                                                │
-  │    ██╗   ██╗ █████╗ ███████╗██╗  ██╗    ███████╗ ██████╗ ██████╗ ███████╗   │
-  │    ╚██╗ ██╔╝██╔══██╗██╔════╝██║  ██║    ╚══███╔╝██╔═══██╗██╔══██╗██╔════╝   │
-  │     ╚████╔╝ ███████║███████╗███████║      ███╔╝ ██║   ██║██████╔╝█████╗     │
-  │      ╚██╔╝  ██╔══██║╚════██║██╔══██║     ███╔╝  ██║   ██║██╔═══╝ ██╔══╝    │
-  │       ██║   ██║  ██║███████║██║  ██║    ███████╗╚██████╔╝██║     ███████╗   │
-  │       ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝    ╚══════╝ ╚═════╝ ╚═╝     ╚══════╝   │
-  │                                                                                │
-  │              C L O U D  &  F U L L  S T A C K  D E V E L O P E R            │
-  │                              ·  Pune, India  ·                                │
+  │                                                                              │
+  │    ██╗   ██╗ █████╗ ███████╗██╗  ██╗    ███████╗ ██████╗ ██████╗ ███████╗    │
+  │    ╚██╗ ██╔╝██╔══██╗██╔════╝██║  ██║    ╚══███╔╝██╔═══██╗██╔══██╗██╔════╝    │
+  │     ╚████╔╝ ███████║███████╗███████║      ███╔╝ ██║   ██║██████╔╝█████╗      │
+  │      ╚██╔╝  ██╔══██║╚════██║██╔══██║     ███╔╝  ██║   ██║██╔═══╝ ██╔══╝      │
+  │       ██║   ██║  ██║███████║██║  ██║    ███████╗╚██████╔╝██║     ███████╗    │
+  │       ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝    ╚══════╝ ╚═════╝ ╚═╝     ╚══════╝    │
+  │                                                                              │
+  │              C L O U D  &  F U L L  S T A C K  D E V E L O P E R             │
+  │                              ·  Pune, India  ·                               │
   └──────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -24,7 +24,7 @@
 
 [![Portfolio](https://img.shields.io/badge/◈_Engineering_Notebook-Open_Portfolio-8B7355?style=for-the-badge&logoColor=white)](https://main.d226cvc30nip9r.amplifyapp.com/)
 [![LinkedIn](https://img.shields.io/badge/◈_LinkedIn-Yash_Zope-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-zope-50a2523a6/)
-[![GitHub](https://img.shields.io/badge/◈_GitHub-YASH--ZOPE-2D2D2D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YASH-ZOPE)
+[![Email](https://img.shields.io/badge/✉_Email-Contact_Me-8B7355?style=for-the-badge)](mailto:zopeyash66w@gmail.com)
 
 </div>
 
@@ -210,8 +210,8 @@ botanical sketch details. The design itself is the statement.
 <div align="center">
 
 <a href="https://github.com/YASH-ZOPE">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YASH-ZOPE&show_icons=true&theme=dark&title_color=C4A882&icon_color=C4A882&text_color=D4C4A8&bg_color=1A1A1A&border_color=3D3529&count_private=true&hide_border=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASH-ZOPE&layout=compact&theme=dark&title_color=C4A882&text_color=D4C4A8&bg_color=1A1A1A&border_color=3D3529&langs_count=8" />
+<!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YASH-ZOPE&show_icons=true&theme=dark&title_color=C4A882&icon_color=C4A882&text_color=D4C4A8&bg_color=1A1A1A&border_color=3D3529&count_private=true&hide_border=false" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASH-ZOPE&layout=compact&theme=dark&title_color=C4A882&text_color=D4C4A8&bg_color=1A1A1A&border_color=3D3529&langs_count=8" />-->
 </a>
 
 <br/><br/>
@@ -231,9 +231,8 @@ botanical sketch details. The design itself is the statement.
 *The notebook is open. The drafting table is lit.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yash_Zope-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-zope-50a2523a6/)
-[![GitHub](https://img.shields.io/badge/GitHub-@YASH--ZOPE-2D2D2D?style=for-the-badge&logo=github)](https://github.com/YASH-ZOPE)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Engineering_Notebook-8B7355?style=for-the-badge)](https://main.d226cvc30nip9r.amplifyapp.com/)
-
+[![Email](https://img.shields.io/badge/✉_Email-Contact_Me-8B7355?style=for-the-badge)](mailto:zopeyash66w@gmail.com)
 </div>
 
 ---
