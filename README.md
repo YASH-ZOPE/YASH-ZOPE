@@ -6,18 +6,18 @@
 <div align="center">
 
 ```
-  ┌─────────────────────────────────────────────────────────────────┐
-  │                                                                   │
-  │       ██╗   ██╗ █████╗ ███████╗██╗  ██╗    ███████╗ ██████╗    │
-  │       ╚██╗ ██╔╝██╔══██╗██╔════╝██║  ██║    ╚══███╔╝██╔═══██╗   │
-  │        ╚████╔╝ ███████║███████╗███████║      ███╔╝ ██║   ██║   │
-  │         ╚██╔╝  ██╔══██║╚════██║██╔══██║     ███╔╝  ██║   ██║   │
-  │          ██║   ██║  ██║███████║██║  ██║    ███████╗╚██████╔╝   │
-  │          ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝    ╚══════╝ ╚═════╝    │
-  │                                                                   │
-  │         C L O U D  &  F U L L  S T A C K  D E V E L O P E R    │
-  │                         ·  Pune, India  ·                         │
-  └─────────────────────────────────────────────────────────────────┘
+  ┌──────────────────────────────────────────────────────────────────────────────┐
+  │                                                                                │
+  │    ██╗   ██╗ █████╗ ███████╗██╗  ██╗    ███████╗ ██████╗ ██████╗ ███████╗   │
+  │    ╚██╗ ██╔╝██╔══██╗██╔════╝██║  ██║    ╚══███╔╝██╔═══██╗██╔══██╗██╔════╝   │
+  │     ╚████╔╝ ███████║███████╗███████║      ███╔╝ ██║   ██║██████╔╝█████╗     │
+  │      ╚██╔╝  ██╔══██║╚════██║██╔══██║     ███╔╝  ██║   ██║██╔═══╝ ██╔══╝    │
+  │       ██║   ██║  ██║███████║██║  ██║    ███████╗╚██████╔╝██║     ███████╗   │
+  │       ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝    ╚══════╝ ╚═════╝ ╚═╝     ╚══════╝   │
+  │                                                                                │
+  │              C L O U D  &  F U L L  S T A C K  D E V E L O P E R            │
+  │                              ·  Pune, India  ·                                │
+  └──────────────────────────────────────────────────────────────────────────────┘
 ```
 
 *"Every great system was first a sketch on the back of an envelope."*
@@ -34,9 +34,9 @@
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
-│  SUBJECT     :  Yash Zope                                     │
-│  DISCIPLINE  :  Cloud & Full Stack Development                │
-│  BASE CAMP   :  Pune, Maharashtra, India                      │
+│  SUBJECT     :  Yash Zope                                    │
+│  DISCIPLINE  :  Cloud & Full Stack Development               │
+│  BASE CAMP   :  Pune, Maharashtra, India                     │
 │  STACK RANGE :  React → Node → AWS  ·  End-to-end            │
 │  PHILOSOPHY  :  Ship clean. Document well. Iterate always.   │
 └──────────────────────────────────────────────────────────────┘
@@ -52,14 +52,14 @@ always improving the craft.
 ## 📌  Current Expedition  ·  Active Pursuits
 
 ```
-  ┌───────────────────────────────────────────────────────┐
-  │                                                         │
-  │   ✦  Building Full Stack Applications                  │
-  │   ✦  Exploring AWS Cloud Architecture                  │
-  │   ✦  Learning DevOps & CI/CD Pipelines                │
-  │   ✦  Improving System Design Skills                    │
-  │                                                         │
-  └───────────────────────────────────────────────────────┘
+    ┌───────────────────────────────────────────────────────┐
+     │                                                     │
+    │   ✦  Building Full Stack Applications                 │
+   │    ✦  Exploring AWS Cloud Architecture                  │
+   │    ✦  Learning DevOps & CI/CD Pipelines                 │
+    │   ✦  Improving System Design Skills                   │
+     │                                                     │
+    └───────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -114,11 +114,11 @@ always improving the craft.
 
 ```
   ┌───────────────────────────────────────────────────────┐
-  │                                                         │
-  │   ↗  Kubernetes  ·  Container Orchestration           │
-  │   ↗  Advanced AWS Services                            │
-  │   ↗  DevOps Practices & Infrastructure Automation     │
-  │                                                         │
+  │                                                       │
+  │      Kubernetes  ·  Container Orchestration           │
+  │      Advanced AWS Services                            │
+  │      DevOps Practices & Infrastructure Automation     │
+  │                                                       │
   └───────────────────────────────────────────────────────┘
 ```
 
@@ -195,6 +195,16 @@ botanical sketch details. The design itself is the statement.
 
 ---
 
+## 🐍  Contribution Trail
+
+<div align="center">
+
+![Snake](https://github.com/YASH-ZOPE/YASH-ZOPE/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
 ## 📊  Activity Logs  ·  GitHub Statistics
 
 <div align="center">
@@ -209,24 +219,6 @@ botanical sketch details. The design itself is the statement.
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com?user=YASH-ZOPE&theme=dark&background=1A1A1A&border=3D3529&ring=C4A882&fire=C4A882&currStreakLabel=C4A882&sideLabels=D4C4A8&dates=8B7355" />
 </a>
-
-</div>
-
----
-
-## 🗂  The Notebook  ·  Interactive Portfolio
-
-<div align="center">
-
-**[→  Open the Engineering Notebook  ←](https://main.d226cvc30nip9r.amplifyapp.com/)**
-
-```
-  ╔══════════════════════════════════════════════════╗
-  ║   YASH ZOPE  ·  ENGINEERING NOTEBOOK            ║
-  ║   Vol. I  ·  Cloud & Full Stack Archive         ║
-  ║   Skills  ·  Projects  ·  Journey  ·  Contact  ║
-  ╚══════════════════════════════════════════════════╝
-```
 
 </div>
 
@@ -250,7 +242,7 @@ botanical sketch details. The design itself is the statement.
 
 ```
   · · ·  Filed & sealed in the tradition of the engineering notebook  · · ·
-                        YASH ZOPE  ·  Pune, India  ·  2025 – present
+                     YASH ZOPE  ·  Pune, India  ·  2025 – present
 ```
 
 </div>
