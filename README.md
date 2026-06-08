@@ -4,22 +4,21 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark-transparent.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/logo-light-transparent.svg">
+  <img
+    alt="Yash Zope"
+    src="./assets/logo-dark-transparent.svg"
+    width="900">
+</picture>
 
-```
-  ┌──────────────────────────────────────────────────────────────────────────────┐
-  │                                                                              │
-  │    ██╗   ██╗ █████╗ ███████╗██╗  ██╗    ███████╗ ██████╗ ██████╗ ███████╗    │
-  │    ╚██╗ ██╔╝██╔══██╗██╔════╝██║  ██║    ╚══███╔╝██╔═══██╗██╔══██╗██╔════╝    │
-  │     ╚████╔╝ ███████║███████╗███████║      ███╔╝ ██║   ██║██████╔╝█████╗      │
-  │      ╚██╔╝  ██╔══██║╚════██║██╔══██║     ███╔╝  ██║   ██║██╔═══╝ ██╔══╝      │
-  │       ██║   ██║  ██║███████║██║  ██║    ███████╗╚██████╔╝██║     ███████╗    │
-  │       ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝    ╚══════╝ ╚═════╝ ╚═╝     ╚══════╝    │
-  │                                                                              │
-  │              C L O U D  &  F U L L  S T A C K  D E V E L O P E R             │
-  │                              ·  Pune, India  ·                               │
-  └──────────────────────────────────────────────────────────────────────────────┘
-```
+<br><br>
 
+<i>"Every great system was first a sketch on the back of an envelope."</i>
+
+</div>
 *"Every great system was first a sketch on the back of an envelope."*
 
 [![Portfolio](https://img.shields.io/badge/◈_Engineering_Notebook-Open_Portfolio-8B7355?style=for-the-badge&logoColor=white)](https://main.d226cvc30nip9r.amplifyapp.com/)
