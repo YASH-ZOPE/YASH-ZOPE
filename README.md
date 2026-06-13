@@ -154,7 +154,7 @@ handles the auth chain end-to-end.
 ---
 
 ### ▸  Timetable Management System  ·  Role-Based Scheduling
-`React.js · AWS Cognito · Firebase RTDB · React Router v6 · html2canvas`  &nbsp;·&nbsp;  Full Stack
+`React.js · AWS Cognito · Firebase RTDB · React Router v6 · html2canvas`  &nbsp;·&nbsp;  Full Stack · Deployed
 
 A premium multi-role timetable coordination platform for educational institutions.
 Admin panel with full CRUD over departments, subjects, and schedule grids — including
@@ -170,8 +170,8 @@ Live messaging inbox between teachers and administration built in. Cognito group
   Export :  html2canvas + file-saver → high-quality PNG schedule download
   Roles  :  Admin · Teacher · Public Guest  (protected route guards)
 ```
-
-[![Repo](https://img.shields.io/badge/Open_Blueprint-View_Repo-8B7355?style=flat-square)](https://github.com/YASH-ZOPE/teacher-timetable-generator)
+[![Live Demo](https://img.shields.io/badge/◈_Live_Demo-Deployed_on_AWS-28A745?style=for-the-badge&logo=amazonaws&logoColor=white)](https://main.d3kcu75ssyto7p.amplifyapp.com/)
+[![Repo](https://img.shields.io/badge/Open_Blueprint-View_Repo-8B7355?style=flat-square)](https://github.com/YASH-ZOPE/timetable-management-system)
 
 ---
 
@@ -190,7 +190,7 @@ botanical sketch details. The design itself is the statement.
 ```
 
 [![Live Demo](https://img.shields.io/badge/◈_Live_Demo-Open_Notebook-8B7355?style=for-the-badge&logoColor=white)](https://main.d226cvc30nip9r.amplifyapp.com/)
-[![Repo](https://img.shields.io/badge/Open_Blueprint-View_Repo-8B7355?style=flat-square)](https://github.com/YASH-ZOPE)
+[![Repo](https://img.shields.io/badge/Open_Blueprint-View_Repo-8B7355?style=flat-square)](https://github.com/YASH-ZOPE/portfolio)
 
 ---
 
