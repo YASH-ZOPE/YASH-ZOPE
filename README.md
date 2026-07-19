@@ -148,7 +148,7 @@ handles the auth chain end-to-end.
   Data   :  Firebase live sync  +  IndexedDB offline fallback
 ```
 
-[![Live Demo](https://img.shields.io/badge/◈_Live_Demo-Deployed_on_AWS-28A745?style=for-the-badge&logo=amazonaws&logoColor=white)](https://main.d37taywsxgqmhw.amplifyapp.com)
+[![Live Demo](https://img.shields.io/badge/◈_Live_Demo-Deployed_on_AWS-28A745?style=for-the-badge&logo=amazonaws&logoColor=white)](https://main.d2gemtbe1uyf2z.amplifyapp.com/)
 [![Repo](https://img.shields.io/badge/Open_Blueprint-View_Repo-8B7355?style=flat-square)](https://github.com/YASH-ZOPE/Attendance)
 
 ---
@@ -170,7 +170,7 @@ Live messaging inbox between teachers and administration built in. Cognito group
   Export :  html2canvas + file-saver → high-quality PNG schedule download
   Roles  :  Admin · Teacher · Public Guest  (protected route guards)
 ```
-[![Live Demo](https://img.shields.io/badge/◈_Live_Demo-Deployed_on_AWS-28A745?style=for-the-badge&logo=amazonaws&logoColor=white)](https://main.d3kcu75ssyto7p.amplifyapp.com/)
+[![Live Demo](https://img.shields.io/badge/◈_Live_Demo-Deployed_on_AWS-28A745?style=for-the-badge&logo=amazonaws&logoColor=white)](https://main.d3npqxzqdphass.amplifyapp.com/)
 [![Repo](https://img.shields.io/badge/Open_Blueprint-View_Repo-8B7355?style=flat-square)](https://github.com/YASH-ZOPE/timetable-management-system)
 
 ---
@@ -189,7 +189,7 @@ botanical sketch details. The design itself is the statement.
   Host   :  AWS Amplify  ·  Custom domain pipeline
 ```
 
-[![Live Demo](https://img.shields.io/badge/◈_Live_Demo-Open_Notebook-8B7355?style=for-the-badge&logoColor=white)](https://main.d226cvc30nip9r.amplifyapp.com/)
+[![Live Demo](https://img.shields.io/badge/◈_Live_Demo-Open_Notebook-8B7355?style=for-the-badge&logoColor=white)](https://main.d25jn6r1sw2ut.amplifyapp.com/)
 [![Repo](https://img.shields.io/badge/Open_Blueprint-View_Repo-8B7355?style=flat-square)](https://github.com/YASH-ZOPE/portfolio)
 
 ---
