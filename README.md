@@ -21,7 +21,7 @@
 </div>
 *"Every great system was first a sketch on the back of an envelope."*
 
-[![Portfolio](https://img.shields.io/badge/◈_Engineering_Notebook-Open_Portfolio-8B7355?style=for-the-badge&logoColor=white)](https://main.d226cvc30nip9r.amplifyapp.com/)
+[![Portfolio](https://img.shields.io/badge/◈_Engineering_Notebook-Open_Portfolio-8B7355?style=for-the-badge&logoColor=white)](https://main.d25jn6r1sw2ut.amplifyapp.com/)
 [![LinkedIn](https://img.shields.io/badge/◈_LinkedIn-Yash_Zope-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-zope-50a2523a6/)
 [![Email](https://img.shields.io/badge/✉_Email-Contact_Me-8B7355?style=for-the-badge)](mailto:zopeyash66w@gmail.com)
 
@@ -230,7 +230,7 @@ botanical sketch details. The design itself is the statement.
 *The notebook is open. The drafting table is lit.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yash_Zope-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-zope-50a2523a6/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Engineering_Notebook-8B7355?style=for-the-badge)](https://main.d226cvc30nip9r.amplifyapp.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Engineering_Notebook-8B7355?style=for-the-badge)](https://main.d25jn6r1sw2ut.amplifyapp.com/)
 [![Email](https://img.shields.io/badge/✉_Email-Contact_Me-8B7355?style=for-the-badge)](mailto:zopeyash66w@gmail.com)
 </div>
 
